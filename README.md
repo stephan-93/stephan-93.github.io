@@ -1,2 +1,2 @@
-# stephan93.github.io
-GitHub hosting
+# Stephan Bradley
+GitHub Pages
